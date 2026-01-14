@@ -1,0 +1,54 @@
+{
+  "navigation": {
+    "overview": "Overview",
+    "backpack": "Backpack",
+    "info": "Info"
+  },
+  "general": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "save": "Save"
+  },
+  "home": {
+    "popups": {
+      "infoButton": "Info",
+      "videoButton": "Videos",
+      "titles": {
+        "clinic": "In the hospital",
+        "home": "At home",
+        "rehab": "In rehab"
+      }
+    },
+    "tipsOverview": {
+      "tipsButton": "Tips from companions",
+      "infoButton": "Cardiac rehab information"
+    },
+    "tips": {
+      "info": "Information",
+      "tips": "Tips",
+      "tag": "Stored in backpack"
+    }
+  },
+  "backpack": {
+    "title": "My backpack",
+    "subtitle": "Stored information",
+    "noData": "Currently nothing stored",
+    "deleteAlert": {
+      "title": "Warning",
+      "text": "Do you really want to delete the stored information?"
+    }
+  },
+  "notes": {
+    "newNote": "New Note",
+    "noNotes": "Currently there are no notes",
+    "warning": "Warning",
+    "noText": "Please enter a text"
+  },
+  "info": {
+    "titles": {
+      "general": "General information",
+      "navigation": "Navigation within the App"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+<!--
+ // Copyright LBI-DHP and/or licensed to LBI-DHP under one or more
+ // contributor license agreements (LBI-DHP: Ludwig Boltzmann Institute
+ // for Digital Health and Prevention -- A research institute of the
+ // Ludwig Boltzmann Gesellschaft, Österreichische Vereinigung zur
+ // Förderung der wissenschaftlichen Forschung).
+ // Licensed under the Apache 2.0 license with Commons Clause
+ // (see https://www.apache.org/licenses/LICENSE-2.0 and
+ // https://commonsclause.com/)
+-->
+
+<html>
+
+<head>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+  <script src="spinePlayer.js"></script>
+</head>
+
+<body>
+  <div id="player"></div>
+</body>
+
+<script>
+  const player = new spine.SpinePlayer("player", {
+    animation: "left_idle_lookUp", // "idle01", "happy01", "left_happy01", "left_idle_lookUp"
+    showControls: false,
+    alpha: true,
+    jsonUrl: "skeleton.json",
+    atlasUrl: "hero_spine_02.atlas",
+    viewport: {
+      x: -1076.62,
+      y: -66.59,
+      width: 1337.56,
+      height: 806.43,
+      // debugRender: true,
+      animations: {
+        "left_idle_lookUp": {
+          x: -340,
+          y: -66.59,
+          width: 1337.56,
+          height: 806.43,
+        },
+        "left_happy01": {
+          x: -340,
+          y: -66.59,
+          width: 1337.56,
+          height: 806.43,
+        }
+      }
+    }
+  });
+
+  const triggerHappyAnimation = () => {
+    // setAnimation (animation: string | Animation, loop: boolean = true)
+    player.setAnimation("left_happy01", false);
+    // addAnimation (animation: string | Animation, loop: boolean = true, delay: number = 0)
+    player.addAnimation("left_idle_lookUp", true, 0);
+  }
+</script>
+
+</html>

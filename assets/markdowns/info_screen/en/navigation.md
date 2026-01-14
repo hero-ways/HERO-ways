@@ -1,0 +1,2 @@
+- Depending on which part of your journey to rehab you are currently in, different information may be important. That's why the information and tips are divided into the **hospital**, **home** and **rehab** wards. You can move back and forth along the path at any time and read through information multiple times.
+- If you want to remember information or a tip, you can save it using the backpack symbol. Then you can find them more quickly later. If you click on the backpack in the menu, you will find all your saved information and tips at a glance.

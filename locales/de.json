@@ -1,0 +1,54 @@
+{
+  "navigation": {
+    "overview": "Überblick",
+    "backpack": "Rucksack",
+    "info": "Info"
+  },
+  "general": {
+    "back": "Zurück",
+    "cancel": "Abbrechen",
+    "ok": "OK",
+    "save": "Speichern"
+  },
+  "home": {
+    "popups": {
+      "infoButton": "Info",
+      "videoButton": "Videos",
+      "titles": {
+        "clinic": "In der Klinik",
+        "home": "Zu Hause",
+        "rehab": "In der Reha"
+      }
+    },
+    "tipsOverview": {
+      "tipsButton": "Tipps von Wegbegleitern",
+      "infoButton": "Informationen zur Herz-Reha"
+    },
+    "tips": {
+      "info": "Informationen",
+      "tips": "Tipps",
+      "tag": "Im Rucksack gespeichert"
+    }
+  },
+  "backpack": {
+    "title": "Mein Rucksack",
+    "subtitle": "Gespeicherte Informationen",
+    "noData": "Derzeit nichts gespeichert",
+    "deleteAlert": {
+      "title": "Warnung",
+      "text": "Möchten Sie die gespeicherte Information wirklich löschen?"
+    }
+  },
+  "notes": {
+    "newNote": "Neue Notiz",
+    "noNotes": "Derzeit sind keine Notizen vorhanden",
+    "warning": "Warnung",
+    "noText": "Bitte geben Sie einen Text ein"
+  },
+  "info": {
+    "titles": {
+      "general": "Allgemeines",
+      "navigation": "Navigation in der App"
+    }
+  }
+}
