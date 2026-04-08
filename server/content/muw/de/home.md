@@ -43,7 +43,7 @@ Wer kümmert sich um Haus und Garten während deiner Abwesenheit? Musst du evtl.
 ### [rehab_transport]Transport zur Reha
 Überlege und organisiere im Voraus, wie du zum Reha-Zentrum kommst: Fahrst du selbst mit dem Auto oder Rad? Kann dich ein Angehöriger bringen und abholen? Gibt es öffentliche Verkehrsmittel dort hin? Eventuell gibt es auch einen Abholdienst. Informiere dich in deinem Reha-Zentrum.
 
-### [video]Videos|Erfahrungsberichte
+## [video]Videos|Erfahrungsberichte
 ### [vroni] Vroni
 @[youtube](JZwFWzlGRaU)
 
