@@ -1,0 +1,79 @@
+{
+    "version": "1.0",
+    "contexts": [
+        {
+            "updated": "2025-04-05T12:00:00Z",
+            "name": "hero",
+            "languages": {
+                "de": "Allgemein"
+            },
+            "path": "hero-ways",
+            "stations": [
+                {
+                    "name": "prehab",
+                    "color": "#F59E0B"
+                },
+                {
+                    "name": "clinic",
+                    "color": "#E63B11"
+                },
+                {
+                    "name": "home",
+                    "color": "#A241A7"
+                },
+                {
+                    "name": "rehab",
+                    "color": "#004C9A"
+                }
+            ]
+        },
+        {
+            "updated": "2026-04-02T12:00:00Z",
+            "name": "salk",
+            "languages": {
+                "de": "Viszeralchirurgie"
+            },
+            "path": "salk",
+            "stations": [
+                {
+                    "name": "prehab",
+                    "color": "#F59E0B"
+                },
+                {
+                    "name": "clinic",
+                    "color": "#E63B11"
+                },
+                {
+                    "name": "home",
+                    "color": "#A241A7"
+                },
+                {
+                    "name": "rehab",
+                    "color": "#004C9A"
+                }
+            ]
+        },
+        {
+            "updated": "2026-04-02T12:00:00Z",
+            "name": "muw",
+            "languages": {
+                "de": "Herzchirurgie"
+            },
+            "path": "muw",
+            "stations": [
+                {
+                    "name": "clinic",
+                    "color": "#E63B11"
+                },
+                {
+                    "name": "home",
+                    "color": "#A241A7"
+                },
+                {
+                    "name": "rehab",
+                    "color": "#004C9A"
+                }
+            ]
+        }
+    ]
+}
