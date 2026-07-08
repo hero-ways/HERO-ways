@@ -21,3 +21,10 @@ Hier sind ein paar Vorschlage:
 - Informiere dich über regionale Angebote in einer Umgebung: Gibt es Herzsportgruppen, Herzverbände oder Selbsthilfegruppen, denen du dich anschließen kannst?
 - Suche Kontakt zu einem niedergelassenen
 Kardiologen für eine regelmäßige Herzkontrolle und Vorsorge.
+
+## [video]Videos|Erfahrungsberichte
+### [vroni] Vroni
+@[youtube](VFuseLi4CGw)
+
+### [hubert] Hubert
+@[youtube](A499GJyKeUs)
